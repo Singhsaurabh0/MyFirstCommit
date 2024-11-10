@@ -12,9 +12,9 @@ Github - https://github.com/atul120212
 
 LinkedIn - https://www.linkedin.com/in/atul-sharma-11735b1b3/
 
-Hobby - ______________________
+Hobby - Do code with my headphones
 
-Goal - _______________________
+Goal -  Go on World Tour and then explore space with a Rocket.
 
 Message - It's my first contribution at Coder Corps community's event
 
